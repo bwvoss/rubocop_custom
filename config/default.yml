@@ -1,0 +1,3 @@
+Custom/Test:
+  Description: 'Check that test is not a method name'
+  Enabled: true

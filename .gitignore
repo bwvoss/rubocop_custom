@@ -1,0 +1,5 @@
+coverage
+run_tests
+.bundle
+Gemfile.lock
+.ruby-version
